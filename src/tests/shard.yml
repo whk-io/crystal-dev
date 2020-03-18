@@ -1,0 +1,13 @@
+name: tests
+version: 0.1.0
+
+authors:
+  - William Kirk <whk@whk.io>
+
+targets:
+  tests:
+    main: src/tests.cr
+
+crystal: 0.32.1
+
+license: MIT
